@@ -1,0 +1,201 @@
+.cat:hover{
+    transform: scale(1.1,1.1);
+}
+.cat{
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.firstprice{
+    font-size: 10px;
+    padding-left: 90px;
+    color:whitesmoke
+}
+body{
+    background-color: rgba(37, 29, 18, 0.979);
+}
+.img{
+     max-height: 260px;
+      min-height:260px;
+    }
+.dog:hover{
+        transform: scale(1.1,1.1);
+    }
+
+.dog{
+        padding-left: 150px;
+        padding-top: 80px;
+       
+    }
+ .secondprice{
+        font-size: 10px;
+        padding-left: 100px;
+        color:whitesmoke;
+       
+       
+    }
+    .fish:hover{
+        transform: scale(1.1,1.1);
+    }
+    .fish{
+        padding-left: 150px;
+        padding-top: 80px;
+
+    }
+    .thirdprice{
+        font-size: 10px;
+        padding-left: 100px;
+        color:whitesmoke;
+
+    }
+    .apple:hover{
+        transform: scale(1.1,1.1);
+    }
+    .apple{
+        padding-left: 150px;
+        padding-top: 80px;
+
+    }
+    .fourthprice{
+        font-size: 10px;
+        padding-left: 100px;
+        color:whitesmoke;
+
+    }
+     .price{
+         display: flex;
+     }
+     .stefan{
+         display: flex;
+     }
+     
+     .kokos:hover{
+         transform: scale(1.1,1.1);
+     }
+     .kokos{
+        padding-left: 100px;
+        padding-top: 80px;
+
+     }
+     .fifthprice{
+        font-size: 10px;
+        padding-left: 100px;
+        color:whitesmoke;
+     }
+     .lopi:hover{
+         transform: scale(1.1,1.1);
+     }
+     .lopi{
+        padding-left: 150px;
+        padding-top: 80px;
+
+     }
+     .sixthprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+     }
+     .poli:hover{
+         transform: scale(1.1,1.1);
+     }
+     .poli{
+        padding-left: 150px;
+        padding-top: 80px;
+
+     }
+     .seventhprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+     }
+     .pmg:hover{
+         transform: scale(1.1,1.1);
+
+     }
+     .pmg{
+        padding-left: 150px;
+        padding-top: 80px;
+
+     }
+     .eigthprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+     }
+     .dido{
+         display: flex;
+     }
+     .gospod:hover{
+        transform: scale(1.1,1.1);
+    }
+
+     
+     .gospod{
+        padding-left:100px;
+        padding-top: 80px;
+
+     }
+     .ninthprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+     }
+     .mitko:hover{
+        transform: scale(1.1,1.1);
+    }
+    .mitko{
+        padding-left:150px;
+        padding-top: 80px;
+
+    }
+    .tenprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+    }
+    .stela:hover{
+        transform: scale(1.1,1.1);
+    }
+    .stela{
+        padding-left:150px;
+        padding-top: 80px;
+
+    }
+    .elevenprice{
+        font-size: 10px;
+        padding-left: 75px;
+        color:whitesmoke;
+
+    }
+.koko:hover{
+    transform: scale(1.1,1.1);
+}
+.koko{
+    padding-left:150px;
+    padding-top: 80px;
+
+}
+.twelfprice{
+    font-size: 10px;
+    padding-left: 75px;
+    color:whitesmoke;
+
+}
+     .code{
+        color:#A8B9C0;
+        background-image: url('back.jpg');
+        background-repeat: no-repeat;
+      background-size: 1850px 1350px;
+         
+     }
+     .codes{
+        color:#A8B9C0;
+        background-image: url('back.jpg');
+        background-repeat: no-repeat;
+      background-size: 1850px 1350px;
+         
+     }
